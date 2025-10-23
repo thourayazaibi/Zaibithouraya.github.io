@@ -1,6 +1,8 @@
 # Welcome to My Portfolio
 
 Hello! I'm Zaibi Thouraya, an aspiring web developer. This portfolio showcases my projects and skills in web development.
+🌐 [View My Portfolio Online](https://zaibithouraya.great-site.net)
+
 
 ## About Me
 - Passionate about creating interactive websites and learning new technologies.
